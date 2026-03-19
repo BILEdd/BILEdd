@@ -1,12 +1,12 @@
 # Gabriel Queiroz 🌿
 
-### Técnico em Informática (3º Ano) | Backend Developer em Formação
+### IT Technician (Final Year) | Backend Developer in Training
 
-Atualmente cursando o último ano do ensino técnico, em um regime de **intensa imersão em desenvolvimento de software**. Minha rotina é pautada pelo estudo constante de arquiteturas escaláveis, buscando a excelência técnica através da prática diária em **Java**, **Node.js** e **Python**.
+Currently in the final year of my Information Technology Technical Degree, undergoing an **intensive immersion** in software engineering. My daily routine is dedicated to mastering robust backend architectures, focusing on the **Java** and **Node.js** ecosystems, alongside **Python** automation and data persistence.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Technical Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,20 +14,20 @@ Atualmente cursando o último ano do ensino técnico, em um regime de **intensa 
   </a>
 </p>
 
-> **Foco Acadêmico:** dedicação integral ao domínio de lógica avançada e integração de sistemas.
+> **Academic Milestone:** Completing my 3rd-year technical thesis with a deep focus on advanced logic and systems integration.
 
 ---
 
-## 🚀 Aprendizado & Evolução
+## 🚀 Daily Learning & Evolution
 
-* **Foco Atual:** 🧠 **Deep Dive no Backend** — Construindo APIs REST robustas e otimizando persistência de dados com MySQL.
-* **Formação:** 🎓 **Técnico em Informática** (3º Ano) — Teoria e prática avançada em computação.
-* **Idiomas:** * 🇬🇧 **Inglês:** Nível Intermediário (Comprometido com 50% da trilha concluída rumo à fluência).
-    * 🇪🇸 **Espanhol:** Conhecimentos básicos.
+* **Current Deep Dive:** 🧠 **Backend Mastery** — Building scalable REST APIs and optimizing relational databases with **MySQL**.
+* **Education:** 🎓 **Information Technology Technician** (3rd Year) — High-level computing theory and practice.
+* **Languages:** * 🇬🇧 **English:** Intermediate-Advanced (Completed 50% of fluency certification path).
+    * 🇪🇸 **Spanish:** Basic proficiency.
 
 ---
 
-## 📊 Estatísticas (BILEdd)
+## 📊 Performance Metrics (BILEdd)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BILEdd&show_icons=true&theme=react&bg_color=b2ba9c&title_color=2f3e2e&text_color=3e4f3c&icon_color=4a5d23&border_color=b2ba9c" />
@@ -36,7 +36,7 @@ Atualmente cursando o último ano do ensino técnico, em um regime de **intensa 
 
 ---
 
-## 🔗 Conexões Profissionais
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-queiroz-aab4593b6/">
@@ -52,5 +52,5 @@ Atualmente cursando o último ano do ensino técnico, em um regime de **intensa 
 
 ---
 <p align="right">
-  <i>"A observação silenciosa precede o domínio técnico."</i> 🦉
+  <i>"Silent observation precedes technical mastery."</i> 🦉
 </p>
