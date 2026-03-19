@@ -20,8 +20,8 @@ Sou um desenvolvedor focado em construir soluções robustas e escaláveis, nave
 ## 🦉 Visão da Floresta (Status do GitHub)
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=highcontrast&bg_color=4a5d23&title_color=ffffff&text_color=e1ebd0&icon_color=a3b18a" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=highcontrast&bg_color=4a5d23&title_color=ffffff&text_color=e1ebd0&icon_color=a3b18a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[BILEdd]&show_icons=true&theme=highcontrast&bg_color=4a5d23&title_color=ffffff&text_color=e1ebd0&icon_color=a3b18a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[BILEdd]&layout=compact&theme=highcontrast&bg_color=4a5d23&title_color=ffffff&text_color=e1ebd0&icon_color=a3b18a" />
 </p>
 
 ---
